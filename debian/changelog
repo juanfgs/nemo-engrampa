@@ -1,0 +1,53 @@
+nemo-engrampa (3.0.0) sarah; urgency=medium
+
+  * 3.0.0
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 24 Apr 2016 12:50:20 +0100
+
+nemo-engrampa (2.8.0) rosa; urgency=medium
+
+  * 2.8.0
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 19 Oct 2015 23:24:04 +0100
+
+nemo-engrampa (2.6.1) rafaela; urgency=medium
+
+  * Add "Extract to.." to full context menu options (in any case)
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sun, 14 Jun 2015 13:23:48 +0200
+
+nemo-engrampa (2.6.0) rafaela; urgency=medium
+
+  * 2.6.0
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 02 Jun 2015 13:42:00 +0200
+
+nemo-engrampa (2.4.0) rebecca; urgency=medium
+
+  * 2.4.0
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 01 Nov 2014 11:37:37 +0100
+
+nemo-engrampa (2.2.0) qiana; urgency=medium
+
+  * 2.2.0
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 12 Apr 2014 16:19:07 +0100
+
+nemo-engrampa (2.0.0) petra; urgency=low
+
+  * 2.0.0
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 30 Sep 2013 15:43:21 +0100
+
+nemo-engrampa (1.8.0) olivia; urgency=low
+
+  * 1.8.0
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 16 Apr 2013 10:42:13 +0100
+
+nemo-engrampa (1.0.0) maya; urgency=low
+
+  * Initial release
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 19 Sep 2012 16:21:00 +0100
